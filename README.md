@@ -1,16 +1,48 @@
-## Hi there 👋
+<img align="right" src="https://github.com/viralla-cup.png" width="125" alt="Profile avatar" />
 
-<!--
-**viralla-cup/viralla-cup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey, i'm Alibi
 
-Here are some ideas to get you started:
+I'm mostly into cybersecurity and AI these days, but I don't really stick to one thing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech, business, games, and whatever else I feel like getting into
+
+---
+
+### what i'm up to
+
+Learning more about machine learning, improving my Python, and trying out different tools and ideas
+
+I use AI tools quite a bit too, whether it's for coding, learning, or experimenting with something new
+
+### a project i'm working on
+
+> **Runtime Security for AI Agents** `WIP`
+>
+> A project that checks what AI agents are allowed to do before their tool calls are executed
+>
+> Security policies, execution controls, audit logs, and a lot of testing
+
+### tech & tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,postgres,git,github,linux,docker&theme=light&perline=10" alt="Tech Stack" />
+</div>
+
+**Security & Networking**  
+Networking · Web Security · Cryptography Basics · OSINT · Wireshark · Scapy · tcpdump
+
+**Security Monitoring & Threat Intelligence**  
+Wazuh · MISP · SIEM
+
+**Systems & Other Tools**  
+Linux · Windows Administration · Docker · PL/SQL
+
+---
+
+<div align="center">
+
+### get in touch
+
+Open to collaborations, projects, work opportunities, or just a chat
+
+</div>
