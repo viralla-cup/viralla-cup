@@ -1,4 +1,3 @@
-<img align="right" src="https://github.com/viralla-cup.png" width="125" alt="Profile avatar" />
 
 # hey, i'm Alibi
 
@@ -29,13 +28,13 @@ I use AI tools quite a bit too, whether it's for coding, learning, or experiment
 </div>
 
 **Security & Networking**  
-Networking · Web Security · Cryptography Basics · OSINT · Wireshark · Scapy · tcpdump
+Networking · Web Security · Cryptography Basics · OSINT · Wireshark · Scapy · tcpdump · Burp Suite
 
 **Security Monitoring & Threat Intelligence**  
-Wazuh · MISP · SIEM
+Wazuh (SIEM/XDR) · MISP (Threat Intelligence)
 
-**Systems & Other Tools**  
-Linux · Windows Administration · Docker · PL/SQL
+**Systems & Databases**  
+Linux & Windows Administration · PL/SQL
 
 ---
 
@@ -44,5 +43,9 @@ Linux · Windows Administration · Docker · PL/SQL
 ### get in touch
 
 Open to collaborations, projects, work opportunities, or just a chat
+
+<a href="mailto:baltabay.creative@gmail.com">
+  <img src="https://img.shields.io/badge/Email-baltabay.creative%40gmail.com-2F81F7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
