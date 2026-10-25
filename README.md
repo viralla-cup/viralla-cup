@@ -48,4 +48,10 @@ Open to collaborations, projects, work opportunities, or just a chat
   <img src="https://img.shields.io/badge/Email-baltabay.creative%40gmail.com-2F81F7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
+<br>
+
+<a href="https://t.me/kawaboomnga">
+  <img src="https://img.shields.io/badge/Telegram-%40kawaboomnga-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
 </div>
